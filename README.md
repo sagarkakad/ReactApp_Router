@@ -3,8 +3,8 @@ React App
 # React Deployment Task-TODO app
 
 ## 🌐 Live Demo Links
-- Netlify: [https://tudedudetodoapp.netlify.app/]
+- Netlify: [https://tudeduderouter.netlify.app/]
 
-- Vercel: [https://vercel.com/sagarkakads-projects/react-app-to-do] 
+- Vercel: [https://react-app-router-dusky.vercel.app/] 
 ## 📂 Submission
-- GitHub Repo: [https://github.com/sagarkakad/ReactApp_ToDo.git]
+- GitHub Repo: [https://github.com/sagarkakad/ReactApp_Router.git]
